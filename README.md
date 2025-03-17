@@ -15,7 +15,7 @@ shell. I put mine in `.bashrc` file with `export OPENAI_API_KEY=""`.
 You can then test it with:
 
 ```console
-echo "My diff" | lazygit
+echo "My diff" | lazycommit
 ```
 
 ## Usage
